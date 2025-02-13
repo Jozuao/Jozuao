@@ -7,4 +7,4 @@ Olá eu sou o João Henrique 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/onlyj.uao/)
 
-![Jozuao GitHub stats](https://github-readme-stats.vercel.app/api?username=Jozuao&show_icons=true&theme=transparent)
+![Jozuao GitHub stats](https://github-readme-stats.vercel.app/api?username=Jozuao&show_icons=true&theme=dracula)
