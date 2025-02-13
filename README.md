@@ -12,10 +12,6 @@
 
 ![Jozuao GitHub stats](https://github-readme-stats.vercel.app/api?username=Jozuao&show_icons=true&theme=dracula)
 
-<a href="https://github.com/enzomakenzy/">
-  <img height="180em" width="50%" src="https://camo.githubusercontent.com/bb9fb0fb562f2e2db5ad9b3097f1c9599a67f265a275be9ab821e1c2a74eaabd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d656e7a6f6d616b656e7a792673686f775f69636f6e733d74727565267468656d653d7261646963616c26696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Jozuao&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-  <img height="180em" width="42%" src="https://camo.githubusercontent.com/afd50c8b84cf134b2fc3b315799e38b3cc496d8b03cbdda496e62dc1442ab1f9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d656e7a6f6d616b656e7a79266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jozuao&amp;layout=compact&amp;langs_count=7&amp;theme=radical" style="max-width: 100%;">
-  </a>
 ## Tecnologias que eu uso no meu dia 
 
 <a href="https://skillicons.dev" rel="nofollow">
