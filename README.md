@@ -1,7 +1,7 @@
 
 Olá eu sou o João Henrique 👋
 
-[![Canal]([https://img.shields.io/website?label=Jozuao.com&style=for-the-bedge&url=https://Jozuao.com/](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white))](https://youtube.com/c/@only_juao)
+[![Youtube]([https://img.shields.io/website?label=Jozuao.com&style=for-the-bedge&url=https://Jozuao.com/](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white))](https://youtube.com/c/@only_juao)
 
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaosilvamoura0t@gmail.com)
 
