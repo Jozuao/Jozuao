@@ -1,7 +1,7 @@
 
 Olá eu sou o João Henrique 👋
 
-[![Youtube](https://img.shilds.io/badge/Youtube-FF0000?style=for-the-bedge&logo=youtube&logoColor=white)](https://youtube.com/c/only_juao.com)
+[![Youtube](https://img.shilds.io/badge/Youtube-FF0000?style=for-the-bedge&logo=youtube&logoColor=white)](https://youtube.com/c/onlyjuao.com)
 
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaosilvamoura0t@gmail.com)
 
