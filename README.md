@@ -34,6 +34,6 @@
 ## Tecnologias para Banco de dados
 <p>
   <a href="https://skillincons.dev">
-    <img src="httos://skillicons.dev/incons?i=SQLite"/>
+    <img src="https://skillicons.dev/icons?i=SQLite"/>
   </a>
 </p>
