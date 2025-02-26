@@ -3,6 +3,8 @@
 
 🌱 Estudando Ruby on Rails 
 
+💻Tec.em Desenvolvimento de Sistemas
+
 💻 Programador Web
 
 💻 Cursando Ciências da computação
