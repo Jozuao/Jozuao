@@ -28,10 +28,12 @@
 <p>
   <a href="https://skillincon.dev">
     <img src="https://skillincons.dev/incons?i=js,ruby,rails,nodejs,python"/>
+  </a>
 </p>
 
 ## Tecnologias para Banco de dados
 <p>
   <a href="https://skillincons.dev">
     <img src="https://skillincon.dev/incon?i=Mysql"/>
+  </a>
 </p>
