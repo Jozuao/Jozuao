@@ -34,6 +34,6 @@
 ## Tecnologias para Banco de dados
 <p>
   <a href="https://skillincons.dev">
-    <img src="https://skillicon.dev/icon?i=Mysql"/>
+    <img src="https://skillicons.dev/icon?i=Mysql"/>
   </a>
 </p>
