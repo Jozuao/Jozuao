@@ -17,9 +17,21 @@
 
 ![Jozuao GitHub stats](https://github-readme-stats.vercel.app/api?username=Jozuao&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no meu dia 
+## Tecnologias Frontend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react" />
   </a>
+</p>
+
+## Tecnologias Backend
+<p>
+  <a href="https://skillincon.dev">
+    <img src="https://skillincons.dev/incons?i=js,ruby,rails,nodejs,python"/>
+</p>
+
+## Tecnologias para Banco de dados
+<p>
+  <a href="https://skillincons.dev">
+    <img src="https://skillincon.dev/incon?i=Mysql"/>
 </p>
